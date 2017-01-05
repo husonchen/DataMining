@@ -1,5 +1,13 @@
 TensorFlowCode/.ipynb_checkpoints
 TensorFlowCode/turial/.ipynb_checkpoints
 TensorFlowCode/turial/summary_logs
+.idea/
 *.gz
 *.jpg
+*.mp3
+*.swp
+*.iml
+*.pkl
+*.xml
+*.csv
+*.pyc
